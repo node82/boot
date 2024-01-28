@@ -1,1 +1,1 @@
-#boot init
+# collection of projects
