@@ -1,1 +1,1 @@
-# collection of projects
+## Contributing
